@@ -40,3 +40,10 @@ let addNoteToScale = ( newNote ) => {
         return a.frequency-b.frequency
     })
 }
+
+let setScale = ( scaleNames ) => {
+    scale = [];
+    for( scaleName of scaleNames ){
+        if( scales)
+    }
+}
